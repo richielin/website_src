@@ -13,7 +13,7 @@ ARTICLE_EXCLUDES = ['files']
 PATH = 'content'
 STATIC_PATHS = ['files', 'images']
 EXTRA_PATH_METADATA = {'files/CNAME':{'path':'CNAME'},'files/README.md':{'path':'README.md'}}
-OUTPUT_PATH = 'richielin.github.io/'
+OUTPUT_PATH = '../richielin.github.io/'
 
 #### TIMEZONE AND LANGUAGE SETTING ####
 TIMEZONE = 'America/New_York'
