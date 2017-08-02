@@ -4,8 +4,8 @@ from __future__ import unicode_literals
 
 #### TITLE AND AUTHOR SETTINGS ####
 AUTHOR = u'Richie'
-SITENAME = u"Tao Lin"
-SITESUBTITLE = 'AKA. Richie'
+SITENAME = u'Tao Lin'
+SITESUBTITLE = 'AKA. Richie - Data Science, Criminal Justice, Business and More.'
 SITEURL = 'http://taolinrichie.com'
 
 #### INPUT AND OUTPUT SETTING ####
@@ -31,14 +31,14 @@ AUTHOR_FEED_RSS = None
 THEME = '/home/richie/projects/pelican_themes/BT3-Flat'
 
 # Other pics
-FAVICON = "images/icon-r.jpg"
-ICON = "images/icon-r.jpg"
-SHORTCUT_ICON = "images/icon-r.jpg"
-HEADER_IMAGE = "images/icon-r.jpg"
-BACKGROUND_IMAGE = 'images/bg-pic.jpg'
+FAVICON = "/images/icon-r.jpg"
+ICON = "/images/icon-r.jpg"
+SHORTCUT_ICON = "/images/icon-r.jpg"
+HEADER_IMAGE = "/images/icon-r.jpg"
+BACKGROUND_IMAGE = '/images/bg-pic.jpg'
 
 # About me
-PERSONAL_PHOTO = "images/avatar-274x274.png"
+PERSONAL_PHOTO = "/images/avatar-274x274.png"
 PERSONAL_INFO = "<p align='left'>Hi! This is Tao Lin and people call me Richie.</p> <p align='left'>I am a data scientist currently working as a research analyst for The Misdemeanor Justice Project at John Jay College of Criminal Justice, City University of New York.</p> <p align='left'>I am also a prior Professional Marketing Manager at Pepsi Beverage West North-China Region.</p> <p align='left'>I graduated from Texas A&M International University with a Master's degree in Management Information System.</p> <p align='left'>The title picture was taken on my first visit to New York City, an amazing place belongs to all dreamers. :)</p>"
 
 # LOADING SETTING
@@ -52,6 +52,27 @@ ARCHIVE_LIST = False
 POST_LIMIT = 1
 DISPLAY_PAGES_ON_MENU = True
 
+#### Working samples ####
+WORK_DESCRIPTION = "Here are some projects I have done."
+WORK_LIST = (('link','files/2003-2006 NYC SQF mapping/SQF_icon.png','NYPD 2003 - 2006 Stop, Question and Frisk Mapping',
+'An analysis at MJP','files/2003-2006 NYC SQF mapping/03-06NYC_SQF_maping.html'),
+('link','/files/GermanCreditAnalysis/index.png','Prediction methods analysis with the German Credit Data set','A presentation at RangTech','https://rpubs.com/zmqplintao/139641'),
+('link','/files/NBA_conference paper/img_NBA_conf_paper.png','Predicting Sports Outcomes with a Rank-And-Choose Variable Selection Process',"An Analysis published at ABDA.15 conference during my Master's",'http://worldcomp-proceedings.com/proc/p2015/ABD6305.pdf'),
+)
+
+
+
+
+
+#INDEX_CN = True
+
+
+
+
+
+
+
+
 #### THEME SETTINGS ENDS ####
 
 
@@ -59,8 +80,8 @@ DISPLAY_PAGES_ON_MENU = True
 # Blogroll
 LINKS = (('The Misdemeanor Justice Project','http://misdemeanorjustice.org'),
 	('Evan Misshula', 'https://Misshula.org'),
-	('Pelican', 'http://getpelican.com/'),
-        ('Python.org', 'http://python.org/'),
+	('R Server', 'http://server.taolinrichie.com:8787'),
+        ('Py Server', 'https://server.taolinrichie.com:8888'),
 )
 
 # Social widget
@@ -83,6 +104,6 @@ DEFAULT_PAGINATION = True
 
 
 # Copy right
-COPYRIGHT = '2017 &copy; All Rights Reserved. This website is developed under Python, enpowered by Pelican. Thanks to Ken Lai for this amazing theme. Thanks to Evan Misshula and Adam Fera for the inspiration and guide in the development.'
+COPYRIGHT = '2017 &copy; All Rights Reserved. This website is developed under Python enpowered by Pelica, also Markdown, HTML and CSS. Thanks to <a href="https://github.com.KenMercusLai/BT3-Flat">Ken Lai</a> for the theme. <br>Thanks to <a href="https://misshula.org">Evan Misshula</a> and Adam Fera for the inspiration and guide in the development.'
 
 

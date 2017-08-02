@@ -1,5 +1,6 @@
 ﻿Title: Resume
 Date: 07-15-2017
+Category: Resume
 
 ### Summary
 - Passionate Data Science/ Business Intelligence/ Data Analysis candidate with 4+ years’ overall work experience.  
@@ -76,10 +77,10 @@ Laredo, TX, 08/2014 –12/2015
 + Developed research for applying machine learning and neural network methods on DDoS attack detection, presented at Texas A&M University System Pathways Student Research Symposium.  
 + Developed research about apply data analysis on sport events outcome, built theory from data gathering through data modeling. Was invited and presented on Conference ABDA'15 in Las Vegas.  
 + Finished the course projects excellently, including:  
-       - &lt;Click `n Dine, Business Analysis and Plan for an online food ordering app&rt; for Project Mgt. and Design course, finished with a fully functional demo website, a detailed business plan and a high evaluation.  
-       - &lt;Fitness Pal, a digitalizing development of TAMIU Rec center&rt;  and &lt;IT management implementation for small business, a local family owned restaurant&rt; for Information System Analysis course;  
-       - &lt;Alcool,  E-commerce project planning and analysis&rt; for Management Information system course;  
-       - &lt;Planning and implementing Information system for Local school district assets management&rt; for Database Management & Design, finished with a fully functional demo system and well-designed project proposal.  
+	- &lt;Click `n Dine, Business Analysis and Plan for an online food ordering app&rt; for Project Mgt. and Design course, finished with a fully functional demo website, a detailed business plan and a high evaluation.  
+	- &lt;Fitness Pal, a digitalizing development of TAMIU Rec center&rt;  and &lt;IT management implementation for small business, a local family owned restaurant&rt; for Information System Analysis course;  
+	- &lt;Alcool,  E-commerce project planning and analysis&rt; for Management Information system course;  
+	- &lt;Planning and implementing Information system for Local school district assets management&rt; for Database Management & Design, finished with a fully functional demo system and well-designed project proposal.  
   
 **2012,2013 and 2014 Market Research and Pepsi Branding Programs**  
 Brand Manager, Project Manager at Pepsi Beverage West North-China Region  
