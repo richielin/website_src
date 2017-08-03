@@ -39,7 +39,7 @@ BACKGROUND_IMAGE = '/images/bg-pic.jpg'
 
 # About me
 PERSONAL_PHOTO = "/images/avatar-274x274.png"
-PERSONAL_INFO = "<p align='left'>Hi! This is Tao Lin and people call me Richie.</p> <p align='left'>I am a data scientist currently working as a research analyst for The Misdemeanor Justice Project at John Jay College of Criminal Justice, City University of New York.</p> <p align='left'>I am also a prior Professional Marketing Manager at Pepsi Beverage West North-China Region.</p> <p align='left'>I graduated from Texas A&M International University with a Master's degree in Management Information System.</p> <p align='left'>The title picture was taken on my first visit to New York City, an amazing place belongs to all dreamers. :)</p>"
+PERSONAL_INFO = '<p align="left">Hi! This is Tao Lin and people call me Richie.</p> <p align="left">I am a data scientist currently working as a research analyst for The Misdemeanor Justice Project at John Jay College of Criminal Justice, City University of New York.</p> <p align="left">I am also a prior Professional Marketing Manager at Pepsi Beverage West North-China Region.</p> <p align="left">I graduated from Texas A&M International University with a Masters degree in Management Information System.</p> <p align="left">The title picture was taken on my first visit to New York City, the beautiful "concrete jungle where dreams are made of".</p>'
 
 # LOADING SETTING
 LOAD_CONTENT_CACHE = False
@@ -104,6 +104,4 @@ DEFAULT_PAGINATION = True
 
 
 # Copy right
-COPYRIGHT = '2017 &copy; All Rights Reserved. This website is developed under Python enpowered by Pelica, also Markdown, HTML and CSS. Thanks to <a href="https://github.com.KenMercusLai/BT3-Flat">Ken Lai</a> for the theme. <br>Thanks to <a href="https://misshula.org">Evan Misshula</a> and Adam Fera for the inspiration and guide in the development.'
-
-
+COPYRIGHT = '2017 &copy; All Rights Reserved. Thanks to my family, friends and the awesome MJP team for the support.Thanks to <a href="https://misshula.org">Evan Misshula</a> and Adam Fera for the inspiration and guide in the development. This website is developed under Python enpowered with Pelican, also Markdown, HTML and CSS. Thanks to <a href="https://github.com.KenMercusLai/BT3-Flat">Ken Lai</a> for the theme. '
