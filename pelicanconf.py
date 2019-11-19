@@ -55,10 +55,31 @@ DISPLAY_PAGES_ON_MENU = True
 
 #### Working samples ####
 WORK_DESCRIPTION = " "
-WORK_LIST = (('link','files/2003-2006 NYC SQF mapping/SQF_icon.png','NYPD 2003 - 2006 Stop, Question and Frisk Mapping',
-'An analysis at MJP','files/2003-2006 NYC SQF mapping/03-06NYC_SQF_maping.html'),
-('link','/files/GermanCreditAnalysis/index.png','Prediction methods analysis with the German Credit Data set','A presentation at RangTech','https://rpubs.com/zmqplintao/139641'),
-('link','/files/NBA_conference paper/img_NBA_conf_paper.png','Predicting Sports Outcomes with a Rank-And-Choose Variable Selection Process',"An Analysis published at ABDA.15 conference during my Master's",'http://worldcomp-proceedings.com/proc/p2015/ABD6305.pdf'),
+WORK_LIST = (
+	('link',
+		'files/resume/resume.png', 
+		'Resume', 
+		' ',
+		'files/resume/resume.pdf' 
+		), 
+	('link',
+		'files/2003-2006 NYC SQF mapping/SQF_icon.png',
+		'NYPD 2003 - 2006 Stop, Question and Frisk Mapping',
+		'An analysis at MJP',
+		'files/2003-2006 NYC SQF mapping/03-06NYC_SQF_maping.html'
+		),
+	('link',
+		'files/GermanCreditAnalysis/index.png',
+		'Prediction methods analysis with the German Credit Data set',
+		'A presentation at RangTech',
+		'https://rpubs.com/zmqplintao/139641'
+		),
+	('link',
+		'files/NBA_conference paper/img_NBA_conf_paper1.png',
+		'Predicting Sports Outcomes with a Rank-And-Choose Variable Selection Process',
+		"An Analysis published at ABDA.15 conference during my Master's",
+		'http://worldcomp-proceedings.com/proc/p2015/ABD6305.pdf'
+		)
 )
 
 #INDEX_CN = True
@@ -76,8 +97,7 @@ LINKS = (('Data Collaborative for Justice','https://datacollaborativeforjustice.
 # Social widget
 SOCIAL = (('linkedin','https://www.linkedin.com/in/taolinrichie/'),
 	  ('github', 'https://github.com/richielin'),
-	  ('envelope', 'mailto:richielin321@gmail.com'),
-
+	  ('envelope', 'mailto:richielin321@gmail.com')
 	 )
 
 #### GOOGLE ANALTICS SEETINGS ####
